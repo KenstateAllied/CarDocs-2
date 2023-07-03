@@ -59,7 +59,7 @@ class Home extends Component{
                             <div className="product-item hover-img">
                             <a   className="product-img">
                                 <img
-                                src={`${process.env.PUBLIC_URL}/images/b-img-14.jpg`}
+                                src={`${process.env.PUBLIC_URL}/images/b-img-screen.jpg`}
                                 alt=""
                                 />
                             </a>
